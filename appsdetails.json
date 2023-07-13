@@ -1,0 +1,1106 @@
+{
+  "iconsurl": "https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-icons/",
+  "screenshotsurl":"https://raw.githubusercontent.com/erapalog/appstore/main/appstore-ejercicio/img/app-screenshots/",
+  "apps": [
+    {
+      "urlimage": "1.webp",
+      "urlscreenshot": "1.webp",
+      "name": "App 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 1",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 2",
+          "opinion": "When an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "username": "User 3",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+     {
+      "urlimage": "2.webp",
+      "urlscreenshot": "2.webp",
+      "name": "App 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 4",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 5",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 6",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "3.webp",
+      "urlscreenshot": "3.webp",
+      "name": "App 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 7",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 8",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 9",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "4.webp",
+      "urlscreenshot": "4.webp",
+      "name": "App 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 10",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 11",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 12",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "5.webp",
+      "urlscreenshot": "5.webp",
+      "name": "App 5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 13",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 14",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 15",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "6.webp",
+      "urlscreenshot": "6.webp",
+      "name": "App 6",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 16",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 17",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 18",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "7.webp",
+      "urlscreenshot": "7.webp",
+      "name": "App 7",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 19",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 20",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 21",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "8.webp",
+      "urlscreenshot": "8.webp",
+      "name": "App 8",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 22",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 23",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 24",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "9.webp",
+      "urlscreenshot": "9.webp",
+      "name": "App 9",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 25",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 26",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 27",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "10.webp",
+      "urlscreenshot": "10.webp",
+      "name": "App 10",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 28",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 29",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 30",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "11.webp",
+      "urlscreenshot": "11.webp",
+      "name": "App 11",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 31",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 32",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 33",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "12.webp",
+      "urlscreenshot": "12.webp",
+      "name": "App 12",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 34",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 35",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 36",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "13.webp",
+      "urlscreenshot": "13.webp",
+      "name": "App 13",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 37",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 38",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 39",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "14.webp",
+      "urlscreenshot": "14.webp",
+      "name": "App 14",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 40",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 41",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 42",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "15.webp",
+      "urlscreenshot": "15.webp",
+      "name": "App 15",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 43",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 44",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 45",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "16.webp",
+      "urlscreenshot": "16.webp",
+      "name": "App 16",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 46",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 47",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 48",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "17.webp",
+      "urlscreenshot": "17.webp",
+      "name": "App 17",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 49",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 50",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 51",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "18.webp",
+      "urlscreenshot": "18.webp",
+      "name": "App 18",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 52",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 53",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 54",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "19.webp",
+      "urlscreenshot": "19.webp",
+      "name": "App 19",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 55",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 56",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 57",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "20.webp",
+      "urlscreenshot": "20.webp",
+      "name": "App 20",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 58",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 59",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 60",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "21.webp",
+      "urlscreenshot": "21.webp",
+      "name": "App 21",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 61",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 62",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 63",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "22.webp",
+      "urlscreenshot": "22.webp",
+      "name": "App 22",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 64",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 65",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 66",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "23.webp",
+      "urlscreenshot": "23.webp",
+      "name": "App 23",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 67",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 68",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 69",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "24.webp",
+      "urlscreenshot": "24.webp",
+      "name": "App 24",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 70",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 71",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 72",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "25.webp",
+      "urlscreenshot": "25.webp",
+      "name": "App 25",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 73",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 74",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 75",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "26.webp",
+      "urlscreenshot": "26.webp",
+      "name": "App 26",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 76",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 77",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 78",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "27.webp",
+      "urlscreenshot": "27.webp",
+      "name": "App 27",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 79",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 80",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 81",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "28.webp",
+      "urlscreenshot": "28.webp",
+      "name": "App 28",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 82",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 83",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 84",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "29.webp",
+      "urlscreenshot": "29.webp",
+      "name": "App 29",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 85",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 86",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 87",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "30.webp",
+      "urlscreenshot": "30.webp",
+      "name": "App 30",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 88",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 89",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 90",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "31.webp",
+      "urlscreenshot": "31.webp",
+      "name": "App 31",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 91",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 92",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 93",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "32.webp",
+      "urlscreenshot": "32.webp",
+      "name": "App 32",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 94",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 95",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 96",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "33.webp",
+      "urlscreenshot": "33.webp",
+      "name": "App 33",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 97",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 98",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 99",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "34.webp",
+      "urlscreenshot": "34.webp",
+      "name": "App 34",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 100",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 101",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 102",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "35.webp",
+      "urlscreenshot": "35.webp",
+      "name": "App 35",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 103",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 104",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 105",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "36.webp",
+      "urlscreenshot": "36.webp",
+      "name": "App 36",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 106",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 107",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 108",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "37.webp",
+      "urlscreenshot": "37.webp",
+      "name": "App 37",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 109",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 110",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 111",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "38.webp",
+      "urlscreenshot": "38.webp",
+      "name": "App 38",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 112",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 113",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 114",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "39.webp",
+      "urlscreenshot": "39.webp",
+      "name": "App 39",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 115",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 116",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 117",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "40.webp",
+      "urlscreenshot": "40.webp",
+      "name": "App 40",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 118",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 119",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 120",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "41.webp",
+      "urlscreenshot": "41.webp",
+      "name": "App 41",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 121",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 122",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 123",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "42.webp",
+      "urlscreenshot": "42.webp",
+      "name": "App 42",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 124",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 125",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 126",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "43.webp",
+      "urlscreenshot": "43.webp",
+      "name": "App 43",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 127",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 128",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 129",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "44.webp",
+      "urlscreenshot": "44.webp",
+      "name": "App 44",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 130",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 131",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 132",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "45.webp",
+      "urlscreenshot": "45.webp",
+      "name": "App 45",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 133",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 134",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 135",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "46.webp",
+      "urlscreenshot": "46.webp",
+      "name": "App 46",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 136",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 137",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 138",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "47.webp",
+      "urlscreenshot": "47.webp",
+      "name": "App 47",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 139",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 140",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 141",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "48.webp",
+      "urlscreenshot": "48.webp",
+      "name": "App 48",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 142",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 143",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 144",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "49.webp",
+      "urlscreenshot": "49.webp",
+      "name": "App 49",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 145",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 146",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 147",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    },
+    {
+      "urlimage": "50.webp",
+      "urlscreenshot": "50.webp",
+      "name": "App 50",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+      "price": 3.12,
+      "rating": 4.0,
+      "opinions": [
+        {
+          "username": "User 148",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 149",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        },
+        {
+          "username": "User 150",
+          "opinion": "When an unknown printer took a galley of type and scrambled it."
+        }
+      ]
+    }
+  ]
+}
