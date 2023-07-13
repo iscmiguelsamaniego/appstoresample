@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sample Store</string>
+    <string name="action_settings">Settings</string>
+    <string name="icon_app">Icono del app</string>
+    <string name="main_detail">Imágen principal detalle dialogo</string>
+    <string name="sub_icon">Icono Imágen sub inferior detalle dialogo</string>
+    <string name="msg_refresh">Por favor espere 6 segundos para refrescar los datos</string>
+    <string name="error_admin">Error : Por favor contacte a su administrador</string>
+    <string name="close">Cerrar</string>
+    <string name="install">Instalar</string>
+    <string name="installing">La aplicación será instalada</string>
+    <string name="user_image">Imagen del usuario</string>
+
+</resources>
