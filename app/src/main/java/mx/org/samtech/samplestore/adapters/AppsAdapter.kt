@@ -16,10 +16,10 @@ import mx.org.samtech.samplestore.model.AppsModel
 import mx.org.samtech.samplestore.utils.Utils.setGlideImage
 import mx.org.samtech.samplestore.utils.Utils.showAlertWithAction
 
-class AppsAdapter(var appsList: MutableList<AppsModel>) :
+class AppsAdapter(var appsList: ArrayList<AppsModel>) :
     RecyclerView.Adapter<AppsAdapter.AppsViewHolder>(), Filterable {
 
-    var filterList: MutableList<AppsModel> = appsList
+    var filterList: ArrayList<AppsModel> = appsList
     var appsFilter = AppsFilter()
 
     class AppsViewHolder(view: View) : RecyclerView.ViewHolder(view) {

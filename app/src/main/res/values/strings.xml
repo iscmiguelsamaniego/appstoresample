@@ -10,5 +10,6 @@
     <string name="install">Instalar</string>
     <string name="installing">La aplicación será instalada</string>
     <string name="user_image">Imagen del usuario</string>
+    <string name="no_internet">No se detecta una conexión a internet</string>
 
 </resources>

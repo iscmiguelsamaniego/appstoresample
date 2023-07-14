@@ -1,19 +1,26 @@
 package mx.org.samtech.samplestore.utils
 
+import android.app.Activity
 import android.app.Dialog
 import android.content.Context
+import android.net.ConnectivityManager
+import android.net.NetworkCapabilities
+import android.os.Build
 import android.os.SystemClock
 import android.view.Gravity
+import android.view.View
 import android.view.Window
+import android.view.inputmethod.InputMethodManager
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat.getSystemService
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import mx.org.samtech.samplestore.R
-import mx.org.samtech.samplestore.adapters.AppsAdapter
 import mx.org.samtech.samplestore.adapters.OpinionsAdapter
 import mx.org.samtech.samplestore.retrofit.Opinions
 
@@ -49,15 +56,15 @@ object Utils {
 
         title.text = paramName
         detail.text = paramDescription
-        price.text = "$ $paramPrice"
+        price.text = buildString {
+        append("$ ")
+        append(paramPrice)
+    }
 
-        //TODO Recycler view STARS
         recyclerViewOpinions.layoutManager =
             LinearLayoutManager(paramContext, LinearLayoutManager.VERTICAL ,false)
-        var opinionsAdapter = OpinionsAdapter(opinionsList)
+        val opinionsAdapter = OpinionsAdapter(opinionsList)
         recyclerViewOpinions.adapter = opinionsAdapter
-        //opinions
-        //TODO Recycler view ENDS
 
         btnClose.setOnClickListener {
             customDialog.dismiss()
@@ -89,11 +96,52 @@ object Utils {
         }
     }
 
-    fun customToast(ctx: Context?, message: String?) {
-        if (ctx != null) {
-            val toast = Toast.makeText(ctx, message, Toast.LENGTH_SHORT)
-            toast.setGravity(Gravity.CENTER, 0, 0)
-            toast.show()
+    fun customToast(ctx: Context, message: String?) {
+        val toast = Toast.makeText(ctx, message, Toast.LENGTH_SHORT)
+        toast.setGravity(Gravity.CENTER, 0, 0)
+        toast.show()
+    }
+
+    @Suppress("DEPRECATION")
+    fun isOnline(context: Context?): Boolean {
+
+        var result = false
+        if (context != null) {
+            val connectivityManager =
+                context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
+                val capabilities =
+                    connectivityManager.getNetworkCapabilities(connectivityManager.activeNetwork)
+                if (capabilities != null) {
+                    when {
+                        capabilities.hasTransport(NetworkCapabilities.TRANSPORT_WIFI) -> {
+                            result = true
+                        }
+
+                        capabilities.hasTransport(NetworkCapabilities.TRANSPORT_CELLULAR) -> {
+                            result = true
+                        }
+
+                        capabilities.hasTransport(NetworkCapabilities.TRANSPORT_ETHERNET) -> {
+                            result = true
+                        }
+
+                    }
+                }
+            } else {
+                val activeNetworkInfo = connectivityManager.activeNetworkInfo
+                if (activeNetworkInfo != null && activeNetworkInfo.isConnected) {
+                    if (activeNetworkInfo.type == ConnectivityManager.TYPE_WIFI) {
+                        result = true
+                    }
+
+                    if (activeNetworkInfo.type == ConnectivityManager.TYPE_MOBILE) {
+                        result = true
+                    }
+                }
+            }
         }
+
+        return result
     }
 }
